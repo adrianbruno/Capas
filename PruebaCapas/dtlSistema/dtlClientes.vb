@@ -7,7 +7,8 @@ Public Class dtlClientes
 
     Public Sub obtenerRegistro(ByRef idcliente As Integer, ByRef clientes As DataTable)
         'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=optisys;User Id=sa;Password=;")
-        oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
+        'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
+        oConn = New SqlConnection("Data Source=(localdb)\Projects;Initial Catalog=capasDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;")
         If oConn.State = 1 Then oConn.Close()
         oConn.Open()
         Dim table As New DataTable
@@ -25,7 +26,8 @@ Public Class dtlClientes
     End Sub
     Public Sub insertarRegistro(ByRef intidcliente As Integer, ByRef strrazonSocial As String, calle As String)
         'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=optisys;User Id=sa;Password=;")
-        oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
+        'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
+        oConn = New SqlConnection("Data Source=(localdb)\Projects;Initial Catalog=capasDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;")
         If oConn.State = 1 Then oConn.Close()
         oConn.Open()
         Dim cmd As New SqlCommand
@@ -48,7 +50,8 @@ Public Class dtlClientes
 
     Public Sub eliminarRegistro(ByRef intidcliente As Integer)
         'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=optisys;User Id=sa;Password=;")
-        oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
+        'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
+        oConn = New SqlConnection("Data Source=(localdb)\Projects;Initial Catalog=capasDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;")
         If oConn.State = 1 Then oConn.Close()
         oConn.Open()
         Dim cmd As New SqlCommand

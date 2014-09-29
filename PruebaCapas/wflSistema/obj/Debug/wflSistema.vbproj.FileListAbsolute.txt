@@ -45,3 +45,18 @@ C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\C
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.dll
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.xml
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\wflSistema.dll
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\wflSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\wflSistema.xml
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\brlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\dtlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\brlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\brlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\dtlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\wflSistema\bin\Debug\dtlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.vbprojResolveAssemblyReference.cache
+C:\Proyectos\Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.Resources.resources
+C:\Proyectos\Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.dll
+C:\Proyectos\Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.xml
+C:\Proyectos\Capas\PruebaCapas\wflSistema\obj\Debug\wflSistema.pdb

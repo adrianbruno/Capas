@@ -36,3 +36,15 @@ C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\C
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.dll
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.xml
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\brlSistema\bin\Debug\brlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\brlSistema\bin\Debug\brlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\brlSistema\bin\Debug\brlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\brlSistema\bin\Debug\dtlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\brlSistema\bin\Debug\dtlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\brlSistema\bin\Debug\dtlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.vbprojResolveAssemblyReference.cache
+C:\Proyectos\Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.Resources.resources
+C:\Proyectos\Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\brlSistema\obj\Debug\brlSistema.pdb

@@ -60,3 +60,22 @@ C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\C
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.FormIngreso.resources
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.Resources.resources
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.exe
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.xml
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.pdb
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\PruebaCapas.exe
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\PruebaCapas.pdb
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\PruebaCapas.xml
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\wflSistema.dll
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\brlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\dtlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\wflSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\wflSistema.xml
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\brlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\brlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\dtlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\bin\Debug\dtlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.vbprojResolveAssemblyReference.cache
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.FormIngreso.resources
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.Resources.resources
+C:\Proyectos\Capas\PruebaCapas\PruebaCapas\obj\x86\Debug\PruebaCapas.vbproj.GenerateResource.Cache

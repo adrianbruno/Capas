@@ -27,3 +27,12 @@ C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\C
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.xml
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.pdb
 C:\Users\Diego Spinedi\Google Drive\Instituto12\Analisis y diseño de sistemas\Clases\Programacion en Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.vbprojResolveAssemblyReference.cache
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\bin\Debug\dtlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\bin\Debug\dtlSistema.pdb
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\bin\Debug\dtlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.vbprojResolveAssemblyReference.cache
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.Resources.resources
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.vbproj.GenerateResource.Cache
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.dll
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.xml
+C:\Proyectos\Capas\PruebaCapas\dtlSistema\obj\Debug\dtlSistema.pdb
