@@ -6,11 +6,16 @@ Public Class wflClientes
 
     End Sub
 
-    Public Sub insertarRegistro(ByVal idcliente As Integer, ByRef strrazonsocial As String, ByRef strmensaje As String, calle As String)
+    Public Sub insertarRegistro(ByVal idcliente As Integer,
+                                ByRef strrazonsocial As String,
+                                ByRef strmensaje As String,
+                                calle As String,
+                                ByRef strMail As String,
+                                ByRef strWeb As String)
         Dim x As New brlClientes
 
         If Not x.ExisteCliente(idcliente) Then
-            x.insertarRegistro(idcliente, strrazonsocial, calle)
+            x.insertarRegistro(idcliente, strrazonsocial, calle,strMail, strWeb)
             strmensaje = "El cliente se agrego con exito"
         Else
             strmensaje = "El cliente ya existe en la base"

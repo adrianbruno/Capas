@@ -1,15 +1,20 @@
 ﻿Imports dtlSistema
 Public Class brlClientes
 
-    Public Sub obtenerRegistro(ByVal idcliente As Integer, ByRef clientes As DataTable)
+    Public Sub obtenerRegistro(ByVal idcliente As Integer,
+                               ByRef clientes As DataTable)
         Dim x As New dtlClientes
         x.obtenerRegistro(idcliente, clientes)
 
     End Sub
 
-    Public Sub insertarRegistro(ByVal idcliente As Integer, ByRef strrazonsocial As String, calle As String)
+    Public Sub insertarRegistro(ByVal idcliente As Integer,
+                                ByRef strrazonsocial As String,
+                                calle As String,
+                                ByRef strMail As String,
+                                ByRef strWeb As String)
         Dim x As New dtlClientes
-        x.insertarRegistro(idcliente, strrazonsocial, calle)
+        x.insertarRegistro(idcliente, strrazonsocial, calle, strMail, strWeb)
     End Sub
 
     Public Function ExisteCliente(ByVal idcliente As Integer) As Boolean

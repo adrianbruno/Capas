@@ -24,7 +24,12 @@ Public Class dtlClientes
 
 
     End Sub
-    Public Sub insertarRegistro(ByRef intidcliente As Integer, ByRef strrazonSocial As String, calle As String)
+    Public Sub insertarRegistro(ByRef intidcliente As Integer,
+                                ByRef strrazonSocial As String,
+                                calle As String,
+                                ByRef strMail As String,
+                                ByRef strWeb As String)
+
         'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=optisys;User Id=sa;Password=;")
         'oConn = New SqlConnection("Server=NBK-DIEGO\SQLEXPRESS;Database=Segpool;Trusted_Connection=True;")
         oConn = New SqlConnection("Data Source=(localdb)\Projects;Initial Catalog=capasDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;")
@@ -35,16 +40,16 @@ Public Class dtlClientes
 
         param(0) = New SqlParameter("@idcliente", intidcliente)
         param(1) = New SqlParameter("@razonsocial", strrazonSocial)
+        ' Agegregado por CAT_AB
+        param(2) = New SqlParameter("@mail", strMail)
+        param(3) = New SqlParameter("@web", strWeb)
 
         cmd.CommandType = CommandType.StoredProcedure
         cmd.CommandText = "clientes_insertarRegistro"
         cmd.Connection = oConn
         cmd.Parameters.AddRange(param)
 
-
         cmd.ExecuteNonQuery()
-
-
 
     End Sub
 
